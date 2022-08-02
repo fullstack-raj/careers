@@ -1,0 +1,11 @@
+.mainHeader {
+    background: var(--primary-color); 
+    padding: 8px;
+    .warpper{
+        max-width: 1440px;
+        margin: 0 auto;
+    }
+    .logo{
+        max-width: 170px;
+    }
+}
